@@ -1,0 +1,9 @@
+1)can't detect struct variables;
+2)can't dectect functions defined or declare inside another function using auto
+3)can't detect bugs in these types of statement--
+a)bug inside if,while for or others//no need
+b)
+c)
+
+
+
